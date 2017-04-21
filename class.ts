@@ -8,6 +8,7 @@ class Greeting {
     display() {// function calling 
         return this.name + " " + this.score.toString() + " " + this.age.toString();
     }
+
 }
 var obj = new Greeting();
 obj.greet();
