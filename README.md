@@ -1,8 +1,1 @@
-# ts
-test
-ok thats good,
-
-thats okay for the first commit 
-
-
-test ###
+Here is the way to sync git and google drive.
